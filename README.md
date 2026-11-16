@@ -185,3 +185,5 @@ Please, make sure all steps are using **the same** python version and that you h
 https://forge.coreweave.com/wandb/caseyoleary92-western-governors-university/nyc_airbnb/table?nw=nwusercaseyoleary92
 
 https://github.com/caseyolearywgu/Project-Build-an-ML-Pipeline-Starter/tree/main
+
+I have added the screenshot for Q17 Visualize the Pipeline into the images folder.
